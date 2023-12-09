@@ -1,0 +1,15 @@
+body {
+    padding-top: 3.5rem;
+    overflow-wrap: break-word;
+}
+
+.jumbotron {
+    background: url(../images/banner.jpg) center center no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+
+.myblock {
+    background-color: rgba(20, 20, 20, 0.70);
+    padding: 20px;
+}
